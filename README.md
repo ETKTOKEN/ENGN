@@ -22,13 +22,13 @@ Select language: EN |
 ENGN COIN (ENGN)
 ERC20 Token The public interface of ENGN COIN (ENGN) is the ERC20 interface specified by EIP-20.
 
-name(ENGN COIN)
+name  (ENGN COIN)
 
-symbol(ENGN)
+symbol  (ENGN)
 
-decimals(6)
+decimals  (6)
 
-totalSupply()
+totalSupply (45,507,000,000,000)
 
 balanceOf(address who)
 
