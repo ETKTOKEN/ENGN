@@ -60,4 +60,5 @@ ENGN COIN  (ENGN) is released under the terms of the MIT license. See
 
 
 # WHAT IS ENGN?
-THIS IS A STABLE COIN PEG WITH THE NIGERIA NAIRA ENGN Coin (known by its ticker ENGN) is a stablecoin that is pegged to the NIGERIA NAIRA on a 1:1 basis. Every unit of this cryptocurrency in circulation is backed up by ₦ that is held in reserve, in a mix of cash and short-term NIGERIA Treasury bonds. E-TALK, which is behind this asset, says ENGN is issued with the mission to straighten the NIGERIA NAIRA and make it accessible to everyone
+THIS IS A STABLE COIN PEG WITH THE NIGERIA NAIRA.
+ENGN Coin (known by its ticker ENGN) is a stablecoin that is pegged to the NIGERIA NAIRA on a 1:1 basis. Every unit of this cryptocurrency in circulation is backed up by ₦ that is held in reserve, in a mix of cash and short-term NIGERIA Treasury bonds. E-TALK, which is behind this asset, says ENGN is issued with the mission to straighten the NIGERIA NAIRA and make it accessible to everyone
