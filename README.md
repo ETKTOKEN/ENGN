@@ -19,8 +19,8 @@ Select language: EN |
 
 **Website:** [E-TALK.XYZ](https://e-talk.xyz)
 
-I-k-B- (ETK)
-ERC20 Token The public interface of ikọbọ (ETK) is the ERC20 interface specified by EIP-20.
+ENGN COIN (ENGN)
+ERC20 Token The public interface of ENGN COIN (ENGN) is the ERC20 interface specified by EIP-20.
 
 name()
 
